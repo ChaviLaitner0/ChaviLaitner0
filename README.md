@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Chavi Laitner!  
 
-<!--
-**ChaviLaitner0/ChaviLaitner0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** | 🚀 **Angular** | ⚛️ **React** | 🌿 **Node.js** | ☁️ **Cloud Explorer** | 🌟 **DevOps Enthusiast**  
 
-Here are some ideas to get you started:
+### 🌱 About Me:  
+- Passionate about creating end-to-end web applications and working across the entire stack.  
+- Experienced with **Angular**, **React**, and **Node.js**.  
+- Exploring **Cloud Platforms** and **DevOps** to enhance development processes.  
+- Always eager to learn and take on new challenges.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me:  
+- 📧 Email: cl0583270259@gmail.com
+
+
+---
+
+✨ **"Building full-stack solutions, one line of code at a time!"** 🚀  
+
+
