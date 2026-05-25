@@ -26,3 +26,8 @@ Full Stack Developer focused on building web and desktop business applications u
 ---
 
 *"Building real business solutions, one line of code at a time."*
+## 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,react,angular,nodejs,ts,js,html,css,mysql,mongodb,docker,java,python" />
+</p>
