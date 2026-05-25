@@ -1,19 +1,28 @@
-# 👋 Hi, I'm Chavi Laitner!  
+# 👋 Hi, I'm Chavi Laitner
 
-💻 **Full Stack Developer** | 🚀 **Angular** | ⚛️ **React** | 🌿 **Node.js** | ☁️ **Cloud Explorer** | 🌟 **DevOps Enthusiast**  
+Full Stack Developer focused on building web and desktop business applications using C#, WPF, Angular, React, Node.js, and SQL Server.
 
-### 🌱 About Me:  
-- Passionate about creating end-to-end web applications and working across the entire stack.  
-- Experienced with **Angular**, **React**, and **Node.js**.  
-- Exploring **Cloud Platforms** and **DevOps** to enhance development processes.  
-- Always eager to learn and take on new challenges.  
+## About Me
 
-### 📫 How to Reach Me:  
-- 📧 Email: cl0583270259@gmail.com
+* Passionate about developing end-to-end business solutions and working across the full software stack.
+* Experienced in building real-world management systems with layered architecture and database integration.
+* Always eager to learn new technologies and take on challenging projects.
 
+## Tech Stack
+
+* C#
+* WPF
+* SQL Server
+* Entity Framework
+* Angular
+* React
+* Node.js
+
+
+## Contact
+
+📧 Email:cl0583270259@gmail.com
 
 ---
 
-✨ **"Building full-stack solutions, one line of code at a time!"** 🚀  
-
-
+*"Building real business solutions, one line of code at a time."*
