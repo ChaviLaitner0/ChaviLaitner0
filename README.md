@@ -17,6 +17,7 @@ Full Stack Developer focused on building web and desktop business applications u
 * Angular
 * React
 * Node.js
+* Next.js
 
 
 ## Contact
